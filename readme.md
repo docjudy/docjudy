@@ -4,24 +4,16 @@
 [![Devto Badge](https://img.shields.io/badge/dev.to-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/blakcoder)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCkCygRifJMUpr8SrDLvc0Bg)
 
-
-
-I'm a Software Engineer & Content Creator, I'm all about building world-class solutions and technologies for both frontend and backend architectures, sharing knowledge, documentation, web engineering, MERN Stack, WEB 3, and others. I create technical content (on my [Blog](https://dev.to/blakcoder) and [YouTube](https://www.youtube.com/channel/UCkCygRifJMUpr8SrDLvc0Bg)), build useful [open-source projects](https://github.com/anslemkelechi), build technical communities
-
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning Node.js
-- 👀 I’m interested in the Javascript ecosystem for MERN developers
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, Backend Engineer or UI Engineer (Intern or Junior level).
-- 💞️ I’m looking to collaborate on fullstack projects, i can also jump on fun web3 projects
-- 📫 You can [view my resume](https://docs.google.com/document/d/13JNew_Z0NxqQqhWJKGhXgH5vpNe9es2CDMxh4_jKigQ/edit?usp=sharing) and contact me by emailing to kelechi.webdev@gmail.com.
+- 😊 Pronouns: She/her
+- 💡 Fun fact: I'm a medical doctor
+- 🌱 I’m currently learning Javascript
+- 😊 I’m looking for internships and entry-level opportunities.
+- 💼 Job interests: Front-end Developer (entry-level)
+- 📫 You can contact me by emailing to akabsjudith@gmail.com.
 
 ---
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=anslemkelechi&show_icons=true&include_all_commits=true&hide_border=true" alt="Blakcoder's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anslemkelechi&langs_count=8&layout=compact&hide_border=true" alt="Blakcoder's GitHub stats" /> |
 | ------------- | ------------- |
 
 
